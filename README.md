@@ -1,1 +1,15 @@
 # data-viz
+
+## Resources
+
+`visual encoding` && `visual vocabulary`
+  - [Target process](https://www.targetprocess.com/articles/visual-encoding/)
+  - [IBM Data Viz](https://www.ibm.com/design/v1/language/experience/data-visualization)
+  - [Data Viz Catalogue](https://datavizcatalogue.com/index.html) 
+  - [Visual Vocabulary](https://journalismcourses.org/courses/DE0618/Visual-vocabulary.pdf)
+
+`react inspirations`
+ - [Recharts](https://github.com/recharts/recharts) *Based on d3*
+ - [Uber dataviz](https://github.com/recharts/recharts)
+ - [Victory](https://github.com/FormidableLabs/victory)
+ - [Nivo](https://nivo.rocks/)
