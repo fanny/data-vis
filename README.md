@@ -10,6 +10,6 @@
 
 `react inspirations`
  - [Recharts](https://github.com/recharts/recharts) *Based on d3*
- - [Uber datavis](https://github.com/recharts/recharts)
+ - [Uber datavis](https://github.com/uber/react-vis)
  - [Victory](https://github.com/FormidableLabs/victory)
  - [Nivo](https://nivo.rocks/)
