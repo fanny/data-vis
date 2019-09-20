@@ -1,4 +1,4 @@
-# data-viz
+# data-vis
 
 ## Resources
 
