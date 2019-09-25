@@ -5,6 +5,7 @@
 `visual encoding` && `visual vocabulary`
   - [Target process](https://www.targetprocess.com/articles/visual-encoding/)
   - [IBM Data Vis](https://www.ibm.com/design/v1/language/experience/data-visualization)
+  - [Polaris Shopify](https://polaris.shopify.com/design/data-visualizations)
   - [Data Vis Catalogue](https://datavizcatalogue.com/index.html) 
   - [Visual Vocabulary](https://journalismcourses.org/courses/DE0618/Visual-vocabulary.pdf)
   
@@ -20,7 +21,6 @@
 
 `chart tecniques`
 - [Eagereyes](https://eagereyes.org/section/techniques)
-  
  
 `react inspirations`
  - [Recharts](https://github.com/recharts/recharts) *Based on d3*
