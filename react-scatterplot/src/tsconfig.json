@@ -1,3 +1,4 @@
+
 {
     "compilerOptions": {
       "jsx": "react",
@@ -7,9 +8,7 @@
       "preserveConstEnums": true,
       "removeComments": true,
       "sourceMap": true,
-      "target": "es5"
-    },
-    "include": [
-      "./components/**/**/*"
-    ]
+      "target": "es5",
+      "allowSyntheticDefaultImports": true,
+    }
  }
