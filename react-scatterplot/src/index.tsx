@@ -1,9 +1,8 @@
 import React from 'react'
-import ReactDOM from "react-dom"
-
-import Hello from './components/Hello'
+import ReactDOM from 'react-dom'
+import ScatterPlot from './components/ScatterPlot'
 
 ReactDOM.render(
-  <Hello />,
+  <ScatterPlot />,
   document.getElementById('example'),
 )
