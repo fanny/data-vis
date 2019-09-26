@@ -13,6 +13,10 @@ module.exports = {
                 loader: 'ts-loader',
                 exclude: /node_modules/,
             },
+            {
+                test: /\.css$/,
+                use: ['ts-loader', 'css-loader'],
+            }
         ]
     },
     resolve: {
