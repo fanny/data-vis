@@ -27,5 +27,6 @@
  - [Uber datavis](https://github.com/uber/react-vis)
  - [Victory](https://github.com/FormidableLabs/victory)
  - [Nivo](https://nivo.rocks/)
+ - [VX](https://vx-demo.now.sh/)
  
  
