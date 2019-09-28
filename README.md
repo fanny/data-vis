@@ -2,6 +2,9 @@
 
 ## Resources
 
+`miscellaneous`
+- [Visualization universe](http://visualizationuniverse.com)
+
 `visual encoding` && `visual vocabulary`
   - [Target process](https://www.targetprocess.com/articles/visual-encoding/)
   - [IBM Data Vis](https://www.ibm.com/design/v1/language/experience/data-visualization)
