@@ -38,3 +38,5 @@
  - [DevArt](https://devart.withgoogle.com/)
  - [Google Experiments](https://experiments.withgoogle.com/collection/chrome)
  
+ `courses`
+ [Pluralsight - Data Visualization: Best Practices](https://www.pluralsight.com/courses/data-visualization-best-practices)
