@@ -1,22 +1,24 @@
 import React, { FunctionComponent } from 'react'
-import { VictoryChart, VictoryScatter, VictoryTheme } from 'victory'
+import { VictoryChart, VictoryScatter, VictoryTheme, ScatterSymbolType } from 'victory'
 
-const ScatterPlot: FunctionComponent =() => {
+type Props = {
+  fillColor: string,
+  data: any[],
+  size: number,
+  symbol: ScatterSymbolType
+}
+
+const ScatterPlot: FunctionComponent<Props> = ({ data, size, fillColor, symbol }) => {
   return (
     <VictoryChart
       theme={VictoryTheme.material}
       width={1000}
     >
       <VictoryScatter
-        style={{ data: { fill: "#c43a31" } }}
-        size={7}
-        data={[
-          { x: 1, y: 2 },
-          { x: 2, y: 3 },
-          { x: 3, y: 5 },
-          { x: 4, y: 4 },
-          { x: 5, y: 7 }
-        ]}
+        style={{ data: { fill: fillColor } }}
+        size={size}
+        symbol={symbol}
+        data={data}
       />
     </VictoryChart>
   )
