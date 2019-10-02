@@ -1,5 +1,6 @@
 import React, { FunctionComponent } from 'react'
-import { VictoryChart, VictoryScatter, VictoryTheme, ScatterSymbolType } from 'victory'
+import { VictoryScatter, ScatterSymbolType, VictoryVoronoiContainer, VictoryContainer } from 'victory'
+import XYPlot from './XYPlot'
 
 type Props = {
   fillColor: string,
@@ -8,11 +9,21 @@ type Props = {
   symbol: ScatterSymbolType
 }
 
-const ScatterPlot: FunctionComponent<Props> = ({ data, size, fillColor, symbol }) => {
+const ScatterPlot: FunctionComponent<Props> = ({
+  data,
+  size,
+  fillColor,
+  symbol
+}) => {
   return (
-    <VictoryChart
-      theme={VictoryTheme.material}
+    <XYPlot
       width={1000}
+      height={300}
+      containerComponent={
+        <VictoryVoronoiContainer
+          labels={({ datum }) => `x:${datum.x}, y:${datum.y}`}
+        />
+      }
     >
       <VictoryScatter
         style={{ data: { fill: fillColor } }}
@@ -20,8 +31,12 @@ const ScatterPlot: FunctionComponent<Props> = ({ data, size, fillColor, symbol }
         symbol={symbol}
         data={data}
       />
-    </VictoryChart>
+    </XYPlot>
   )
 }
 
 export default ScatterPlot
+
+// Add voronoi
+// make grid optional
+
