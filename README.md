@@ -40,3 +40,6 @@
  
  `courses`
  - [Pluralsight - Data Visualization: Best Practices](https://www.pluralsight.com/courses/data-visualization-best-practices) $$
+ 
+ `books`
+ - [Storytelling with data](https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
