@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import ScatterPlot from './components/ScatterPlot'
+import LinePlot from './components/LinePlot'
 
 const data = [
   { x: 1, y: 2 },
@@ -11,11 +11,6 @@ const data = [
 ];
 
 ReactDOM.render(
-  <ScatterPlot
-    data={data}
-    fillColor="#F71963"
-    size={4}
-    symbol="diamond"
-  />,
+  <LinePlot/>,
   document.getElementById('example'),
 )

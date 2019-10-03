@@ -2,17 +2,16 @@ import React, { FunctionComponent } from 'react'
 import {
   VictoryScatter,
   VictoryScatterProps,
-  VictoryVoronoiContainer,
-  VictoryAxis
+  VictoryVoronoiContainer
 } from 'victory'
 import XYPlot from './XYPlot'
 import Grid from './Grid'
 
 type ScatterPlotProps = 'style' | 'data' | 'size' | 'symbol'
-type customProps = {
+type CustomProps = {
   fillColor: string
 }
-type Props = Pick<VictoryScatterProps,  ScatterPlotProps> & customProps
+type Props = Pick<VictoryScatterProps,  ScatterPlotProps> & CustomProps
 
 // Whithout grid
 const style = {grid: {fill: "none", stroke: "none"}}
@@ -33,8 +32,8 @@ const ScatterPlot: FunctionComponent<Props> = ({
         />
       }
     >
-      <VictoryAxis style={style} />
-      <VictoryAxis style={style} dependentAxis/>
+      <Grid style={style} />
+      <Grid style={style} dependentAxis/>
       <VictoryScatter
         style={{ data: { fill: fillColor }, parent: { border: "1px solid #ccc" } }}
         size={size}
