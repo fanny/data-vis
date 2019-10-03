@@ -1,28 +1,21 @@
 import React, { FunctionComponent, ReactNode, ReactElement } from 'react'
 import {
-    VictoryChart,
-    VictoryThemeDefinition,
-    VictoryStyleInterface,
-    VictoryTheme,
-    VictoryContainer
+  VictoryChart,
+  VictoryTheme,
+  VictoryContainer,
+  VictoryChartProps
 } from 'victory'
 
-type Props = {
-    containerComponent?: ReactElement
-    theme?: VictoryThemeDefinition
-    width: number
-    height: number
-    style?: VictoryStyleInterface
-    children?: ReactNode
-}
+type XYPlotProps = 'containerComponent' | 'theme' | 'width' | 'height' | 'style'
+type Props = Pick<VictoryChartProps, XYPlotProps>
 
 const XYPlot: FunctionComponent<Props> = ({
-    children,
-    theme=VictoryTheme.material,
-    width,
-    height,
-    containerComponent=<VictoryContainer/>,
-    style
+  children,
+  theme=VictoryTheme.material,
+  width,
+  height,
+  containerComponent=<VictoryContainer/>,
+  style
 }) => {
   return (
     <VictoryChart
