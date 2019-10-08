@@ -12,12 +12,13 @@
   - [Data Vis Catalogue](https://datavizcatalogue.com/index.html) 
   - [Visual Vocabulary](https://journalismcourses.org/courses/DE0618/Visual-vocabulary.pdf)
   
-`blogs`
+`blogs && cool sites`
 - [Eagereyes](https://eagereyes.org/)
 - [Flowingdata](http://flowingdata.com/)
 - [Information is beautiful](https://informationisbeautiful.net/)
 - [Lisa Rost](https://lisacharlotterost.de/)
 - [Pudding](https://pudding.cool/)
+- [FiveThirtyeight](https://fivethirtyeight.com/)
 - [Truth and beauty](https://truth-and-beauty.net/)
 - [vis4net](https://www.vis4.net/blog/)
 - [UW interactive data lab](http://idl.cs.washington.edu/papers/)
