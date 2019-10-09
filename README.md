@@ -44,3 +44,6 @@
  
  `books`
  - [Storytelling with data](https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
+ 
+ `Podcasts`
+ - [DataHackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93?si=7_9SWHjNQDCPSoWXL4l_ZQ)`[PT-BR]`
