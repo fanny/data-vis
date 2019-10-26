@@ -8,7 +8,7 @@ My collection of resources and other useful information for my personal studies 
 - [Visual encoding && Visual Vocabulary :eyes:](#visual-encoding-eyes)
 - [Blogs && favourite sites :computer:](#blogs-computer)
 - [Podcasts :headphones:](#podcasts-headphones)
-- [React Libraries ⚛](#react-libraries⚛)
+- [React Libraries ⚛](#react-libraries-%EF%B8%8F)
 - [Courses :mortar_board:](#courses-mortar_board)
 - [Books :book:](#books-book)
 - [Creative Coding Inspirations :art:](#creative-coding-inspirations-art)
@@ -50,7 +50,7 @@ My collection of resources and other useful information for my personal studies 
  - [Google Experiments](https://experiments.withgoogle.com/collection/chrome)
  
 ### Courses :mortar_board:
- - [Pluralsight - Data Visualization: Best Practices](https://www.pluralsight.com/courses/data-visualization-best-practices) `$$`W
+ - [Pluralsight - Data Visualization: Best Practices](https://www.pluralsight.com/courses/data-visualization-best-practices) `$$`
  
 ### Books :book:
  - [Storytelling with data](https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
