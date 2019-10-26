@@ -4,13 +4,13 @@ My collection of resources and other useful information for my personal studies 
 
 ## Content :memo:
 
-- [Miscellaneous](#miscellaneous-black_joker)
-- [Visual encoding && Visual Vocabulary](#visual-encoding-eyes)
-- [Blogs && favourite sites](#blogs-computer)
-- [Podcasts](#podcasts-headphones)
-- [React Libraries](#react-libraries⚛)
-- [Courses](#courses-mortar_board)
-- [Books](#books-book)
+- [Miscellaneous :black_joker:](#miscellaneous-black_joker)
+- [Visual encoding && Visual Vocabulary :eyes:](#visual-encoding-eyes)
+- [Blogs && favourite sites :computer:](#blogs-computer)
+- [Podcasts :headphones:](#podcasts-headphones)
+- [React Libraries ⚛](#react-libraries⚛)
+- [Courses :mortar_board:](#courses-mortar_board)
+- [Books :book:](#books-book)
 - [Creative Coding Inspirations :art:](#creative-coding-inspirations-art)
 - [Referencies](#) *COMING SOON*
 
@@ -50,10 +50,12 @@ My collection of resources and other useful information for my personal studies 
  - [Google Experiments](https://experiments.withgoogle.com/collection/chrome)
  
 ### Courses :mortar_board:
- - [Pluralsight - Data Visualization: Best Practices](https://www.pluralsight.com/courses/data-visualization-best-practices) $$
+ - [Pluralsight - Data Visualization: Best Practices](https://www.pluralsight.com/courses/data-visualization-best-practices) `$$`W
  
 ### Books :book:
  - [Storytelling with data](https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
  
 ### Podcasts :headphones:
  - [DataHackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93?si=7_9SWHjNQDCPSoWXL4l_ZQ)`[PT-BR]`
+
+ ### Referencies
