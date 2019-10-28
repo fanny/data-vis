@@ -35,6 +35,7 @@ My collection of resources and other useful information for my personal studies 
 - [Truth and beauty](https://truth-and-beauty.net/)
 - [vis4net](https://www.vis4.net/blog/)
 - [UW interactive data lab](http://idl.cs.washington.edu/papers/)
+- [Data Visualization Society](https://www.datavisualizationsociety.com/resources)
 
 ### React Libraries ⚛️
  - [Recharts](https://github.com/recharts/recharts) *Based on d3*
