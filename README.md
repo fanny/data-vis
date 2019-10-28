@@ -24,6 +24,7 @@ My collection of resources and other useful information for my personal studies 
   - [Polaris Shopify](https://polaris.shopify.com/design/data-visualizations)
   - [Data Vis Catalogue](https://datavizcatalogue.com/index.html) 
   - [Visual Vocabulary](https://journalismcourses.org/courses/DE0618/Visual-vocabulary.pdf)
+  - [Material IO](https://material.io/design/communication/data-visualization.html) **
   
 ### Blogs :computer:
 - [Eagereyes](https://eagereyes.org/)
