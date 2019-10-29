@@ -17,6 +17,7 @@ My collection of resources and other useful information for my personal studies 
 
 ### Miscellaneous :black_joker:
 - [Visualization universe](http://visualizationuniverse.com)
+- [DataViz for all](https://datavizforall.org/chart-design.html)
 
 ### Visual Encoding :eyes:
   - [Target process](https://www.targetprocess.com/articles/visual-encoding/)
