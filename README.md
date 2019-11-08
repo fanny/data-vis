@@ -38,6 +38,7 @@ My collection of resources and other useful information for my personal studies 
 - [vis4net](https://www.vis4.net/blog/)
 - [UW interactive data lab](http://idl.cs.washington.edu/papers/)
 - [Data Visualization Society](https://www.datavisualizationsociety.com/resources)
+- [Data to Viz](https://www.data-to-viz.com/caveats.html)
 
 ### React Libraries ⚛️
  - [Recharts](https://github.com/recharts/recharts) *Based on d3*
