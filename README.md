@@ -22,10 +22,14 @@ My collection of resources and other useful information for my personal studies 
 ### Visual Encoding :eyes:
   - [Target process](https://www.targetprocess.com/articles/visual-encoding/)
   - [IBM Data Vis](https://www.ibm.com/design/v1/language/experience/data-visualization)
-  - [Polaris Shopify](https://polaris.shopify.com/design/data-visualizations)
   - [Data Vis Catalogue](https://datavizcatalogue.com/index.html) 
   - [Visual Vocabulary](https://journalismcourses.org/courses/DE0618/Visual-vocabulary.pdf)
-  - [Material IO](https://material.io/design/communication/data-visualization.html) **
+  
+### Design Systems
+
+- [Google Material Design](https://material.io/design/communication/data-visualization.html)
+- [Shopify](https://polaris.shopify.com/design/data-visualization)
+- [SalesForce](https://www.lightningdesignsystem.com/guidelines/charts/)
   
 ### Blogs :computer:
 - [Eagereyes](https://eagereyes.org/)
