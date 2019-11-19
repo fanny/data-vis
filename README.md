@@ -28,7 +28,7 @@ My collection of resources and other useful information for my personal studies 
 ### Design Systems
 
 - [Google Material Design](https://material.io/design/communication/data-visualization.html)
-- [Shopify](https://polaris.shopify.com/design/data-visualization)
+- [Shopify](https://polaris.shopify.com/design/data-visualizations#navigation)
 - [SalesForce](https://www.lightningdesignsystem.com/guidelines/charts/)
   
 ### Blogs :computer:
