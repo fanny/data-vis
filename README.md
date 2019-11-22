@@ -31,6 +31,7 @@ My collection of resources and other useful information for my personal studies 
 - [Shopify](https://polaris.shopify.com/design/data-visualizations#navigation)
 - [SalesForce](https://www.lightningdesignsystem.com/guidelines/charts/)
 - [Carbon](https://www.carbondesignsystem.com/data-visualization)
+- [Adele](https://adele.uxpin.com/)
   
 ### Blogs :computer:
 - [Eagereyes](https://eagereyes.org/)
