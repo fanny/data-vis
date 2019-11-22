@@ -30,6 +30,7 @@ My collection of resources and other useful information for my personal studies 
 - [Google Material Design](https://material.io/design/communication/data-visualization.html)
 - [Shopify](https://polaris.shopify.com/design/data-visualizations#navigation)
 - [SalesForce](https://www.lightningdesignsystem.com/guidelines/charts/)
+- [Carbon](https://www.carbondesignsystem.com/data-visualization)
   
 ### Blogs :computer:
 - [Eagereyes](https://eagereyes.org/)
