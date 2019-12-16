@@ -19,6 +19,7 @@ My collection of resources and other useful information for my personal studies 
 - [Visualization universe](http://visualizationuniverse.com)
 - [DataViz for all](https://datavizforall.org/chart-design.html)
 - [Google Charts](https://developers.google.com/chart/interactive/docs)
+- [Cato Institute](https://github.com/glosophy/CatoDataVizGuidelines/blob/master/PocketStyleBook.pdf)
 
 ### Visual Encoding :eyes:
   - [Target process](https://www.targetprocess.com/articles/visual-encoding/)
