@@ -31,7 +31,7 @@ My collection of resources and other useful information for my personal studies 
 - [Google Material Design](https://material.io/design/communication/data-visualization.html)
 - [Shopify](https://polaris.shopify.com/design/data-visualizations#navigation)
 - [SalesForce](https://lightningdesignsystem.com/guidelines/charts/)
-- [Carbon](https://www.carbondesignsystem.com/data-visualization)
+- [Carbon](https://www.carbondesignsystem.com/data-visualization/chart-types/)
 - [Adobe](https://spectrum.adobe.com/)
 - [Adele](https://adele.uxpin.com/)
   
