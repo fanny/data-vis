@@ -20,6 +20,8 @@ My collection of resources and other useful information for my personal studies 
 - [DataViz for all](https://datavizforall.org/chart-design.html)
 - [Google Charts](https://developers.google.com/chart/interactive/docs)
 - [Cato Institute](https://github.com/glosophy/CatoDataVizGuidelines/blob/master/PocketStyleBook.pdf)
+- [Nightingale Resources](https://docs.google.com/spreadsheets/d/1F1gm5QLXh3USC8ZFx_M9TXYxmD-X5JLDD0oJATRTuIE/edit#gid=1679646668)
+- [City intelligence](https://data.london.gov.uk/blog/city-intelligence-data-design-guidelines/)
 
 ### Visual Encoding :eyes:
   - [Target process](https://www.targetprocess.com/articles/visual-encoding/)
