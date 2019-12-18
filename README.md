@@ -22,6 +22,7 @@ My collection of resources and other useful information for my personal studies 
 - [Cato Institute](https://github.com/glosophy/CatoDataVizGuidelines/blob/master/PocketStyleBook.pdf)
 - [Nightingale Resources](https://docs.google.com/spreadsheets/d/1F1gm5QLXh3USC8ZFx_M9TXYxmD-X5JLDD0oJATRTuIE/edit#gid=1679646668)
 - [City intelligence](https://data.london.gov.uk/blog/city-intelligence-data-design-guidelines/)
+- [Microsoft Chart-Parts](https://microsoft.github.io/chart-parts/)
 
 ### Visual Encoding :eyes:
   - [Target process](https://www.targetprocess.com/articles/visual-encoding/)
